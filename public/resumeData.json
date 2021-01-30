@@ -1,0 +1,103 @@
+{
+  "main": {
+    "name": "Xiaowen Hu(Venus)",
+    "description": "Test Automation Engineer and Full Stack Web Developer.",
+    "image": "venus2.jpeg",
+    "bio": "My name is Xiaowen,go by Venus. I'm a Full Stack ReactJS Developer and Test Automation Engineer. Currently I'm working at Sevatec.",
+    "email": "huxiaowen.venus@gmail.com",
+    "phone": "707-777-7777",
+    "address": {
+      "street": "Dummy St",
+      "city": "Leesburg",
+      "state": "VA",
+      "zip": "20170"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/xiaowen-hu-340197197/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Venus1001",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "",
+        "degree": "Bachelor's Degree",
+        "graduated": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Sevatec",
+        "title": "Test Automation Engineer",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "Karsun Solutions",
+        "title": "Test Automation Engineer",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Selenium",
+        "level": "90%"
+      },
+      {
+        "name": "Cucumber",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "The Traveler's Memoir",
+        "image": "traveler.jpeg",
+        "url": "https://project-2-vasd.herokuapp.com/members"
+      },
+      {
+        "title": "Pooler Paws",
+        "image": "poolerpaw.jpeg",
+        "url": "https://poolerpaw.herokuapp.com/home"
+      },
+      {
+        "title": "React Google Book",
+        "image": "googlebook.jpeg",
+        "url": "https://desolate-retreat-61391.herokuapp.com/"
+      }
+    ]
+  }
+}
